@@ -1,7 +1,7 @@
 {
   "dependencies": {},
-  "name": "ub-khoroo",
-  "version": "0.0.8",
+  "name": "ub-khoroo-mn",
+  "version": "0.1.0",
   "description": "Улаан баатар хотын уртраг өргөрөгөөр хороо дүүргийн олох npm package",
   "main": "index.js",
   "files": [
@@ -19,15 +19,17 @@
     "district",
     "mongolia"
   ],
-  "author": "DA",
+  "author": "tspuujee",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Digital-Aggregator/ub-khoroo.git"
+    "url": "git+https://github.com/Digital-Aggregator/ub-khoroo-mn.git"
   },
   "bugs": {
-    "url": "https://github.com/Digital-Aggregator/ub-khoroo/issues"
+    "url": "https://github.com/Digital-Aggregator/ub-khoroo-mn/issues"
   },
-  "publishConfig": { "registry": "https://github.com/Digital-Aggregator/ub-khoroo" },
-  "homepage": "https://github.com/Digital-Aggregator/ub-khoroo#readme"
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/Digital-Aggregator" 
+  },
+  "homepage": "https://github.com/Digital-Aggregator/ub-khoroo-mn#readme"
 }
