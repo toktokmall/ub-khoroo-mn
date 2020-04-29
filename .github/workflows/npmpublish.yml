@@ -7,10 +7,6 @@ on:
   push:
     branches:
       - master
-on:
-  push:
-    tags:
-      - '*'
 jobs:
   build:
     runs-on: ubuntu-latest
