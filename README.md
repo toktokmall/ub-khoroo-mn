@@ -10,7 +10,7 @@ npm i ub-khoroo-mn
 ```
 
 ### Quick setup 
-### main.js
+#### main.js
 ```
 var calculate = require('ub-khoroo-mn')
 let lat = 47.9174, lng = 106.9137
@@ -18,6 +18,10 @@ calculate(lat, lng).then(data=>{
     console.log(data)
 })
 
+```
+
+```
+npm main.js
 ```
 ### Result:
 ```
@@ -27,3 +31,6 @@ calculate(lat, lng).then(data=>{
   "population": 3750
 }
 ```
+###  Жишээ
+
+https://ub-nice-git-tspuujee-patch-1.puujee.now.sh/
