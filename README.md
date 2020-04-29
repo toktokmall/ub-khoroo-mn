@@ -1,18 +1,5 @@
 # ub-khoroo-mn
 
-## Жишээ 
-https://ub-nice-git-tspuujee-patch-1.puujee.now.sh/
-
-```
-git clone https://github.com/Digital-Aggregator/ub-khoroo-mn.git
-
-cd ub-khoroo-mn
-
-yarn
-
-yarn test
-```
-
 ## Package setup
 ```
 yarn add ub-khoroo-mn
