@@ -1,7 +1,7 @@
 {
   "dependencies": {},
   "name": "ub-khoroo-mn",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Улаан баатар хотын уртраг өргөрөгөөр хороо дүүргийн олох npm package",
   "main": "index.js",
   "files": [
