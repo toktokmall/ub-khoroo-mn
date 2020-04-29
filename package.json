@@ -29,7 +29,7 @@
     "url": "https://github.com/Digital-Aggregator/ub-khoroo-mn/issues"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/Digital-Aggregator"
   },
   "homepage": "https://github.com/Digital-Aggregator/ub-khoroo-mn#readme"
 }
