@@ -1,4 +1,4 @@
-# Khoroo
+# ub-khoroo-mn
 
 ## Жишээ 
 https://ub-nice-git-tspuujee-patch-1.puujee.now.sh/
