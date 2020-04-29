@@ -10,7 +10,7 @@
   ],
   "devDependencies": {},
   "scripts": {
-    "test": "node test.js"
+    "test": "echo \"ok\" && exit 0"
   },
   "keywords": [
     "UB",
@@ -27,9 +27,6 @@
   },
   "bugs": {
     "url": "https://github.com/Digital-Aggregator/ub-khoroo-mn/issues"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Digital-Aggregator"
   },
   "homepage": "https://github.com/Digital-Aggregator/ub-khoroo-mn#readme"
 }
