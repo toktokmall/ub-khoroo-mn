@@ -4,8 +4,9 @@
 name: ub-khoroo-mn
 
 on:
-  release:
-    types: [created]
+  push:
+    branches:
+      - master
 on:
   push:
     tags:
